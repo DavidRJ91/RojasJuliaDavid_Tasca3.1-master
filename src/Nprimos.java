@@ -18,3 +18,7 @@ public class Nprimos {
         }
     }
 }
+
+/* David Rojas Julia
+    2º ASIX
+    Ies Emili Darder */
